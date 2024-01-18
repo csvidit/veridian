@@ -9,19 +9,35 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@clerk/nextjs": "^4.29.4",
+    "@clerk/themes": "^1.7.9",
+    "@daily-co/daily-js": "^0.56.0",
+    "@daily-co/daily-react": "^0.16.0",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.0",
+    "firebase": "^10.4.0",
+    "framer-motion": "^10.16.4",
+    "hamburger-react": "^2.5.0",
+    "lucide-react": "^0.312.0",
+    "next": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "next": "latest"
+    "react-icons": "^4.11.0",
+    "react-responsive": "^9.0.2",
+    "react-spinners": "^0.13.8",
+    "recoil": "^0.7.7",
+    "tailwind-merge": "^2.2.0",
+    "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
-    "typescript": "latest",
-    "@types/react": "latest",
     "@types/node": "latest",
+    "@types/react": "latest",
     "@types/react-dom": "latest",
     "autoprefixer": "latest",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
     "postcss": "latest",
     "tailwindcss": "latest",
-    "eslint": "latest",
-    "eslint-config-next": "latest"
+    "typescript": "latest"
   }
 }

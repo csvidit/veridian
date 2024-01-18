@@ -1,0 +1,9 @@
+<svg width="180" height="181" viewBox="0 0 180 181"
+    xmlns="http://www.w3.org/2000/svg">
+    <path d="M90 90.0996L135 45.0996L180 90.0996H90Z" fill="white"/>
+    <path d="M90 90.0996L135 135.1L90 180.1V90.0996Z" fill="white"/>
+    <path d="M45 135.1L90 90.0996L135 135.1H45Z" fill="white"/>
+    <path d="M90 90.0996L45 135.1L0 90.0996H90Z" fill="white"/>
+    <path d="M90 90.0996L45 45.0996L90 0.0996094V90.0996Z" fill="white"/>
+    <path d="M135 45.0996L90 90.0996L45 45.0996H135Z" fill="white"/>
+</svg>
